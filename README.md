@@ -16,7 +16,7 @@ For the folders inside the QA folder, both folders contain the same files which 
 This code can be used for research purposes as long as you have an appropriate citation: 
 
 ~~~
-@misc{chen2026canqaquestionansweringbenchmarkreasoning,
+@misc{chen2026can,
       title={CAN-QA: A Question-Answering Benchmark for Reasoning over In-Vehicle CAN Traffic}, 
       author={Jing Chen and Abhijay Deevi and Onat Gungor and Tajana Rosing},
       year={2026},
